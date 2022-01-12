@@ -1,0 +1,62 @@
+12:40:55,91 schepak INFO DailyReporter extracting from cards
+12:40:57,504 schepak INFO DailyReporter extracting from transactions
+12:40:57,646 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+12:40:57,737 schepak INFO DailyReporter joined two df by card_number
+12:41:01,793 schepak INFO DailyReporter joined two df by card_number
+13:03:07,299 schepak INFO DailyReporter extracting from cards
+13:04:29,760 schepak INFO DailyReporter extracting from cards
+13:04:57,638 schepak INFO DailyReporter extracting from cards
+13:06:08,379 schepak INFO DailyReporter extracting from cards
+13:06:21,919 schepak INFO DailyReporter extracting from cards
+13:06:24,653 schepak INFO DailyReporter extracting from transactions
+13:06:24,799 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+13:06:24,902 schepak INFO DailyReporter joined two df by card_number
+13:06:25,228 schepak INFO DailyReporter creating parquet files, separated by hour
+13:06:46,155 schepak INFO DailyReporter extracting from cards
+13:06:48,577 schepak INFO DailyReporter extracting from transactions
+13:06:48,695 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+13:06:48,794 schepak INFO DailyReporter joined two df by card_number
+13:06:49,148 schepak INFO DailyReporter creating parquet files, separated by hour
+13:12:07,747 schepak INFO DailyReporter extracting from cards
+13:12:10,138 schepak INFO DailyReporter extracting from transactions
+13:12:10,271 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+13:12:10,364 schepak INFO DailyReporter joined two df by card_number
+13:12:10,695 schepak INFO DailyReporter creating parquet files, separated by hour
+13:12:59,841 schepak INFO DailyReporter extracting from cards
+13:13:02,274 schepak INFO DailyReporter extracting from transactions
+13:13:02,389 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+13:13:02,481 schepak INFO DailyReporter joined two df by card_number
+13:13:02,827 schepak INFO DailyReporter creating parquet files, separated by hour
+13:14:06,121 schepak INFO DailyReporter extracting from cards
+13:14:33,685 schepak INFO DailyReporter extracting from cards
+13:14:48,432 schepak INFO DailyReporter extracting from cards
+13:14:50,857 schepak INFO DailyReporter extracting from transactions
+13:14:51,25 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+13:14:51,115 schepak INFO DailyReporter joined two df by card_number
+13:14:51,438 schepak INFO DailyReporter creating parquet files, separated by hour
+14:09:49,721 schepak INFO DailyReporter extracting from cards
+14:09:52,342 schepak INFO DailyReporter extracting from transactions
+14:09:52,477 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+14:09:52,588 schepak INFO DailyReporter joined two df by card_number
+14:09:53,23 schepak INFO DailyReporter creating parquet files, separated by hour
+14:11:35,369 schepak INFO DailyReporter extracting from cards
+14:11:37,820 schepak INFO DailyReporter extracting from transactions
+14:11:37,942 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+14:11:38,34 schepak INFO DailyReporter joined two df by card_number
+14:11:38,360 schepak INFO DailyReporter creating parquet files, separated by hour
+14:13:50,863 schepak INFO DailyReporter extracting from cards
+14:13:53,475 schepak INFO DailyReporter extracting from transactions
+14:13:53,593 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+14:13:53,694 schepak INFO DailyReporter joined two df by card_number
+14:13:54,25 schepak INFO DailyReporter creating parquet files, separated by hour
+14:14:50,225 schepak INFO DailyReporter extracting from cards
+14:15:17,304 schepak INFO DailyReporter extracting from cards
+14:15:19,770 schepak INFO DailyReporter extracting from transactions
+14:15:19,915 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+14:15:20,19 schepak INFO DailyReporter joined two df by card_number
+14:15:20,366 schepak INFO DailyReporter creating parquet files, separated by hour
+14:15:43,778 schepak INFO DailyReporter extracting from cards
+14:15:46,174 schepak INFO DailyReporter extracting from transactions
+14:15:46,290 schepak INFO DailyReporter start filtering data| date between 1641765600.0 and 1641852000.0 
+14:15:46,392 schepak INFO DailyReporter joined two df by card_number
+14:15:46,747 schepak INFO DailyReporter creating parquet files, separated by hour

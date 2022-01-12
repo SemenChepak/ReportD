@@ -14,6 +14,7 @@ class Cred:
         self.__query_transactions = cred.get('query', 'query_trans')
         self.__partitions = cred.get('path', 'partitions')
         self.__jar = cred.get('path', 'jar')
+        self.log = cred.get('path', 'log')
 
     def get_creds(self):
         return {'url': self.__url,

@@ -1,10 +1,13 @@
 import logging
 import getpass
 
+from loger.cred_holder import Cred
+
 
 class Logger(object):
+    path = Cred()
     logging.basicConfig(
-        filename="C:\\Users\\schepak\\installed_app\\Uriy_projects\\Daily_Report\\loger\\logs\\daily_report.log",
+        filename=path.log,
         filemode='a',
         format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
         datefmt='%H:%M:%S', )

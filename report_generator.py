@@ -55,8 +55,9 @@ class DailyReporter:
         return df
 
     def date_filter(self, df1: DataFrame, df2: DataFrame, selected_date) -> DataFrame:
-        date = self.get_timestamp(selected_date)
-        end_date = date + 86400
+        set_date = self.get_timestamp(selected_date)
+        date = set_date[0]
+        end_date = set_date[1]
 
         self.logger.info(f"start filtering data| date between {date} and {end_date} ")
 
@@ -76,7 +77,8 @@ class DailyReporter:
 
     @staticmethod
     def get_timestamp(date_for_conv):
-        return mktime(datetime.strptime(date_for_conv, "%Y/%m/%d").timetuple())
+        date = mktime(datetime.strptime(date_for_conv, "%Y/%m/%d").timetuple())
+        return date, date + 86400
 
     @staticmethod
     def last_transactions(df: DataFrame) -> DataFrame:
@@ -84,12 +86,10 @@ class DailyReporter:
                                     row_number().over(Window.partitionBy("card_num").orderBy(col("timestamp").desc())))
         return df_with_row.filter(df_with_row.row_number == 1).drop(df_with_row.row_number)
 
-
-if __name__ == '__main__':
-    day = '2022/01/10'
-    worker = DailyReporter()
-    card_df = worker.get_cards()
-    transaction_df = worker.get_transactions()
-    new_df = worker.date_filter(card_df, transaction_df, day)
-    filtered_df = worker.last_transactions(new_df)
-    worker.write_part(filtered_df, day)
+    def reporter(self):
+        day = '2022/01/10'
+        card_df = self.get_cards()
+        transaction_df = self.get_transactions()
+        new_df = self.date_filter(card_df, transaction_df, day)
+        filtered_df = self.last_transactions(new_df)
+        self.write_part(filtered_df, day)

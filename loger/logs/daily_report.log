@@ -66,3 +66,1186 @@
 15:02:33,130 schepak INFO DailyReporter joined two df by card_number
 15:02:33,482 schepak INFO DailyReporter creating parquet files, separated by hour
 15:02:40,466 schepak INFO DailyReporter created parquet files, separated by hour
+15:20:15,720 schepak INFO NewDailyReporter extracting from transactions
+15:21:35,917 schepak INFO NewDailyReporter extracting from transactions
+15:22:15,920 schepak INFO NewDailyReporter extracting from transactions
+15:23:52,711 schepak INFO NewDailyReporter extracting from transactions
+15:24:42,380 schepak INFO NewDailyReporter extracting from transactions
+15:25:39,401 schepak INFO NewDailyReporter extracting from transactions
+15:47:19,588 schepak INFO NewDailyReporter extracting from transactions
+15:47:22,855 schepak INFO NewDailyReporter selecting recent hour 15 and day 13
+15:47:23,165 schepak INFO NewDailyReporter selecting prev_hour 14 and day 13
+15:48:06,695 schepak INFO NewDailyReporter extracting from transactions
+15:48:09,569 schepak INFO NewDailyReporter selecting recent hour 15 and day 13
+15:48:09,896 schepak INFO NewDailyReporter selecting prev_hour 14 and day 13
+15:48:32,7 schepak INFO NewDailyReporter extracting from transactions
+15:48:34,857 schepak INFO NewDailyReporter selecting recent hour 15 and day 13
+15:48:35,148 schepak INFO NewDailyReporter selecting prev_hour 14 and day 13
+15:49:14,204 schepak INFO NewDailyReporter extracting from transactions
+15:49:17,88 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:49:17,399 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:49:50,973 schepak INFO NewDailyReporter extracting from transactions
+15:49:53,930 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:49:54,219 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:55:41,522 schepak INFO NewDailyReporter extracting from transactions
+15:55:44,243 schepak INFO NewDailyReporter extracting from cards
+15:55:44,364 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:55:44,634 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:00:34,983 schepak INFO NewDailyReporter extracting from transactions
+16:00:37,714 schepak INFO NewDailyReporter extracting from cards
+16:00:37,882 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:00:38,228 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:00:59,205 schepak INFO NewDailyReporter extracting from transactions
+16:01:02,3 schepak INFO NewDailyReporter extracting from cards
+16:01:02,205 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:01:02,468 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:29:49,295 schepak INFO NewDailyReporter extracting from transactions
+16:29:51,871 schepak INFO NewDailyReporter extracting from cards
+16:29:51,960 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:29:52,218 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:29:54,724 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:29:54,755 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:31:16,977 schepak INFO NewDailyReporter extracting from transactions
+16:31:20,233 schepak INFO NewDailyReporter extracting from cards
+16:31:20,396 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:31:20,803 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:31:24,200 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:31:24,242 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:39:12,322 schepak INFO NewDailyReporter extracting from transactions
+16:39:15,317 schepak INFO NewDailyReporter extracting from cards
+16:39:15,415 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:39:15,698 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:39:18,377 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:39:18,416 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:40:03,594 schepak INFO NewDailyReporter extracting from transactions
+16:40:06,365 schepak INFO NewDailyReporter extracting from cards
+16:40:06,488 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:40:06,766 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:40:09,334 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:40:09,372 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:44:36,862 schepak INFO NewDailyReporter extracting from transactions
+16:44:39,813 schepak INFO NewDailyReporter extracting from cards
+16:44:39,933 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:44:40,209 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:44:42,934 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:44:42,975 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:08:04,211 schepak INFO NewDailyReporter extracting from transactions
+17:08:06,782 schepak INFO NewDailyReporter extracting from cards
+17:08:06,898 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:08:07,155 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:08:07,173 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:08:07,236 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:09:29,937 schepak INFO NewDailyReporter extracting from transactions
+17:09:32,495 schepak INFO NewDailyReporter extracting from cards
+17:09:32,616 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:09:32,858 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:09:32,873 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:09:32,935 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:10:02,768 schepak INFO NewDailyReporter extracting from transactions
+17:10:05,421 schepak INFO NewDailyReporter extracting from cards
+17:10:05,554 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:10:05,830 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:10:05,849 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:10:05,917 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:10:39,220 schepak INFO NewDailyReporter extracting from transactions
+17:10:42,25 schepak INFO NewDailyReporter extracting from cards
+17:10:42,126 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:10:42,399 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:10:42,415 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:10:42,480 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:10:53,906 schepak INFO NewDailyReporter extracting from transactions
+17:10:56,660 schepak INFO NewDailyReporter extracting from cards
+17:10:56,757 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:10:57,47 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:10:57,67 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:10:57,134 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:11:10,572 schepak INFO NewDailyReporter extracting from transactions
+17:11:13,303 schepak INFO NewDailyReporter extracting from cards
+17:11:13,420 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:11:13,705 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:11:13,722 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:11:13,787 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:11:29,943 schepak INFO NewDailyReporter extracting from transactions
+17:11:32,840 schepak INFO NewDailyReporter extracting from cards
+17:11:32,962 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:11:33,240 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:11:33,258 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:11:33,325 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:11:54,52 schepak INFO NewDailyReporter extracting from transactions
+17:11:57,163 schepak INFO NewDailyReporter extracting from cards
+17:11:57,303 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:11:57,588 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:11:57,605 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:11:57,670 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:13:14,510 schepak INFO NewDailyReporter extracting from transactions
+17:13:17,296 schepak INFO NewDailyReporter extracting from cards
+17:13:17,435 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:13:17,700 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:13:17,719 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:13:17,786 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:20:43,898 schepak INFO NewDailyReporter extracting from transactions
+17:20:46,428 schepak INFO NewDailyReporter extracting from cards
+17:20:46,565 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:20:46,818 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:20:46,834 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:20:46,895 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:21:58,798 schepak INFO NewDailyReporter extracting from transactions
+17:22:01,468 schepak INFO NewDailyReporter extracting from cards
+17:22:01,583 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:22:01,853 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:22:01,871 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:22:01,936 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:22:54,267 schepak INFO NewDailyReporter extracting from transactions
+17:22:56,875 schepak INFO NewDailyReporter extracting from cards
+17:22:56,964 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:22:57,231 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:22:57,248 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:22:57,309 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:23:34,678 schepak INFO NewDailyReporter extracting from transactions
+17:23:37,125 schepak INFO NewDailyReporter extracting from cards
+17:23:37,260 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:23:37,506 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:23:37,521 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:23:37,581 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:24:38,758 schepak INFO NewDailyReporter extracting from transactions
+17:24:41,349 schepak INFO NewDailyReporter extracting from cards
+17:24:41,454 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:24:41,713 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:24:41,729 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:24:41,787 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:25:27,976 schepak INFO NewDailyReporter extracting from transactions
+17:25:30,528 schepak INFO NewDailyReporter extracting from cards
+17:25:30,612 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:25:30,862 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:25:30,878 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:25:30,938 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:26:17,134 schepak INFO NewDailyReporter extracting from transactions
+17:26:19,605 schepak INFO NewDailyReporter extracting from cards
+17:26:19,719 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:26:19,973 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:26:19,989 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:26:20,48 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:27:07,574 schepak INFO NewDailyReporter extracting from transactions
+17:27:10,315 schepak INFO NewDailyReporter extracting from cards
+17:27:10,445 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:27:10,919 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:27:10,944 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:27:11,38 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:27:16,809 root ERROR Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1200, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "C:\Users\schepak\AppData\Local\Programs\Python\Python310\lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\context.py", line 284, in signal_handler
+    self.cancelAllJobs()
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\context.py", line 1201, in cancelAllJobs
+    self._jsc.sc().cancelAllJobs()
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1304, in __call__
+    return_value = get_return_value(
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\sql\utils.py", line 111, in deco
+    return f(*a, **kw)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o75.cancelAllJobs.
+: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.GatewayConnection.run(GatewayConnection.java:238)
+java.lang.Thread.run(Thread.java:748)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.GatewayConnection.run(GatewayConnection.java:238)
+java.lang.Thread.run(Thread.java:748)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:118)
+	at org.apache.spark.SparkContext.cancelAllJobs(SparkContext.scala:2381)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1211, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while receiving
+17:27:24,254 schepak INFO NewDailyReporter extracting from transactions
+17:27:26,736 schepak INFO NewDailyReporter extracting from cards
+17:27:26,823 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:27:27,67 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:27:27,84 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:27:27,143 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:27:57,683 schepak INFO NewDailyReporter extracting from transactions
+17:28:00,160 schepak INFO NewDailyReporter extracting from cards
+17:28:00,244 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:28:00,514 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:28:00,529 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:28:00,588 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:30:05,675 schepak INFO NewDailyReporter extracting from transactions
+17:30:08,109 schepak INFO NewDailyReporter extracting from cards
+17:30:08,221 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:30:08,476 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:30:08,492 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:30:08,554 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:30:40,773 schepak INFO NewDailyReporter extracting from transactions
+17:30:43,323 schepak INFO NewDailyReporter extracting from cards
+17:30:43,446 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:30:43,695 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:30:43,710 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:30:43,769 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:38:21,508 schepak INFO NewDailyReporter extracting from transactions
+17:38:23,974 schepak INFO NewDailyReporter extracting from cards
+17:38:24,74 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:38:24,319 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:38:24,334 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:38:24,393 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:38:48,959 schepak INFO NewDailyReporter extracting from transactions
+17:38:51,455 schepak INFO NewDailyReporter extracting from cards
+17:38:51,565 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:38:51,807 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:38:51,822 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:38:51,883 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:39:16,298 schepak INFO NewDailyReporter extracting from transactions
+17:39:18,930 schepak INFO NewDailyReporter extracting from cards
+17:39:19,16 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:39:19,273 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:39:19,290 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:39:19,349 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:44:57,374 schepak INFO NewDailyReporter extracting from transactions
+17:44:59,792 schepak INFO NewDailyReporter extracting from cards
+17:44:59,911 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:45:00,162 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:45:00,177 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:45:00,236 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:45:37,547 schepak INFO NewDailyReporter extracting from transactions
+17:45:40,67 schepak INFO NewDailyReporter extracting from cards
+17:45:40,152 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:45:40,398 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:45:40,413 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:45:40,471 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:48:28,776 schepak INFO NewDailyReporter extracting from transactions
+17:48:39,590 schepak INFO NewDailyReporter extracting from transactions
+17:48:42,140 schepak INFO NewDailyReporter extracting from cards
+17:48:42,226 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:48:42,487 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:48:42,504 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:48:42,565 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:49:05,395 schepak INFO NewDailyReporter extracting from transactions
+17:49:07,932 schepak INFO NewDailyReporter extracting from cards
+17:49:08,56 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:49:08,306 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:49:08,320 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:49:08,379 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:50:31,358 schepak INFO NewDailyReporter extracting from transactions
+17:50:33,879 schepak INFO NewDailyReporter extracting from cards
+17:50:33,997 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:50:34,246 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:50:34,261 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:50:34,317 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:51:53,186 schepak INFO NewDailyReporter extracting from transactions
+17:51:55,653 schepak INFO NewDailyReporter extracting from cards
+17:51:55,737 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:51:55,985 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:51:56,2 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:51:56,60 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:52:33,989 schepak INFO NewDailyReporter extracting from transactions
+17:52:36,470 schepak INFO NewDailyReporter extracting from cards
+17:52:36,566 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:52:36,829 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:52:36,844 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:52:36,903 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:54:05,94 schepak INFO NewDailyReporter extracting from transactions
+17:54:07,668 schepak INFO NewDailyReporter extracting from cards
+17:54:07,862 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:54:08,115 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:54:08,130 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:54:08,189 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:56:02,360 py4j.java_gateway ERROR An error occurred while trying to connect to the Java server (127.0.0.1:50747)
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+17:56:04,407 py4j.java_gateway ERROR An error occurred while trying to connect to the Java server (127.0.0.1:50747)
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+17:56:06,438 py4j.java_gateway ERROR An error occurred while trying to connect to the Java server (127.0.0.1:50747)
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+17:56:08,482 py4j.java_gateway ERROR An error occurred while trying to connect to the Java server (127.0.0.1:50747)
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+17:56:15,472 schepak INFO NewDailyReporter extracting from transactions
+17:56:17,917 schepak INFO NewDailyReporter extracting from cards
+17:56:18,6 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:56:18,252 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:56:18,269 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:56:18,331 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:27:33,249 schepak INFO NewDailyReporter extracting from transactions
+11:27:35,797 schepak INFO NewDailyReporter extracting from cards
+11:27:35,926 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:27:36,174 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:27:36,190 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:27:36,253 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:29:33,90 schepak INFO NewDailyReporter extracting from transactions
+11:29:35,603 schepak INFO NewDailyReporter extracting from cards
+11:29:35,717 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:29:35,976 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:29:35,992 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:29:36,52 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:40:35,654 schepak INFO NewDailyReporter extracting from transactions
+11:40:38,215 schepak INFO NewDailyReporter extracting from cards
+11:40:38,377 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:40:38,637 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:40:38,657 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:40:38,726 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:41:08,784 schepak INFO NewDailyReporter extracting from transactions
+11:41:11,388 schepak INFO NewDailyReporter extracting from cards
+11:41:11,506 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:41:11,761 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:41:11,778 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:41:11,843 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:43:44,344 schepak INFO NewDailyReporter extracting from transactions
+11:43:46,976 schepak INFO NewDailyReporter extracting from cards
+11:43:47,63 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:43:47,328 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:43:47,345 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:43:47,410 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:44:15,643 schepak INFO NewDailyReporter extracting from transactions
+11:44:18,210 schepak INFO NewDailyReporter extracting from cards
+11:44:18,306 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:44:18,563 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:44:18,580 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:44:18,645 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:48:54,540 schepak INFO NewDailyReporter extracting from transactions
+11:48:57,162 schepak INFO NewDailyReporter extracting from cards
+11:48:57,280 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:48:57,533 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:48:57,550 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:48:57,610 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+11:50:59,330 schepak INFO NewDailyReporter extracting from transactions
+11:51:01,951 schepak INFO NewDailyReporter extracting from cards
+11:51:02,43 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+11:51:02,303 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+11:51:02,320 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+11:51:02,381 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+12:20:44,804 schepak INFO NewDailyReporter extracting from transactions
+12:20:47,565 schepak INFO NewDailyReporter extracting from cards
+12:20:47,680 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+12:20:47,961 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+12:20:47,981 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+12:20:48,51 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+12:21:22,8 schepak INFO NewDailyReporter extracting from transactions
+12:21:24,791 schepak INFO NewDailyReporter extracting from cards
+12:21:24,943 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+12:21:25,233 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+12:21:25,250 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+12:21:25,314 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+12:22:19,31 schepak INFO NewDailyReporter extracting from transactions
+12:22:22,15 schepak INFO NewDailyReporter extracting from cards
+12:22:22,112 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+12:22:22,427 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+12:22:22,447 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+12:22:22,521 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+13:54:49,826 schepak INFO NewDailyReporter extracting from transactions
+13:54:52,737 schepak INFO NewDailyReporter extracting from cards
+13:54:52,847 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+13:54:53,172 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+13:54:53,189 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+13:54:53,257 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+13:55:22,362 schepak INFO NewDailyReporter extracting from transactions
+13:55:25,159 schepak INFO NewDailyReporter extracting from cards
+13:55:25,290 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+13:55:25,581 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+13:55:25,598 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+13:55:25,663 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+13:56:10,514 schepak INFO NewDailyReporter extracting from transactions
+13:56:13,743 schepak INFO NewDailyReporter extracting from cards
+13:56:13,883 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+13:56:14,206 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+13:56:14,227 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+13:56:14,304 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+13:57:29,358 schepak INFO NewDailyReporter extracting from transactions
+13:57:32,572 schepak INFO NewDailyReporter extracting from cards
+13:57:32,785 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+13:57:33,105 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+13:57:33,126 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+13:57:33,203 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:02:26,980 schepak INFO NewDailyReporter extracting from transactions
+14:02:29,968 schepak INFO NewDailyReporter extracting from cards
+14:02:30,97 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:02:30,408 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:02:30,428 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:02:30,500 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:03:24,454 schepak INFO NewDailyReporter extracting from transactions
+14:03:27,8 schepak INFO NewDailyReporter extracting from cards
+14:03:27,205 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:03:27,467 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:03:27,484 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:03:27,543 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:04:22,395 schepak INFO NewDailyReporter extracting from transactions
+14:04:25,0 schepak INFO NewDailyReporter extracting from cards
+14:04:25,87 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:04:25,354 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:04:25,371 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:04:25,433 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:04:55,382 schepak INFO NewDailyReporter extracting from transactions
+14:04:58,110 schepak INFO NewDailyReporter extracting from cards
+14:04:58,219 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:04:58,477 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:04:58,493 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:04:58,555 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:05:34,221 schepak INFO NewDailyReporter extracting from transactions
+14:05:36,989 schepak INFO NewDailyReporter extracting from cards
+14:05:37,77 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:05:37,328 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:05:37,345 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:05:37,409 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:06:16,133 schepak INFO NewDailyReporter extracting from transactions
+14:06:18,721 schepak INFO NewDailyReporter extracting from cards
+14:06:18,843 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:06:19,99 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:06:19,115 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:06:19,177 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:07:34,500 schepak INFO NewDailyReporter extracting from transactions
+14:07:37,55 schepak INFO NewDailyReporter extracting from cards
+14:07:37,165 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:07:37,422 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:07:37,438 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:07:37,502 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:08:11,680 schepak INFO NewDailyReporter extracting from transactions
+14:08:14,220 schepak INFO NewDailyReporter extracting from cards
+14:08:14,305 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:08:14,570 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:08:14,587 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:08:14,654 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:08:43,975 schepak INFO NewDailyReporter extracting from transactions
+14:08:46,472 schepak INFO NewDailyReporter extracting from cards
+14:08:46,556 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:08:46,810 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:08:46,827 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:08:46,892 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:10:45,847 schepak INFO NewDailyReporter extracting from transactions
+14:10:49,168 schepak INFO NewDailyReporter extracting from cards
+14:10:49,262 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:10:49,537 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:10:49,555 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:10:49,628 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:10:49,649 schepak INFO NewDailyReporter get usage rate for current_df
+14:11:00,810 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:11:00,810 schepak INFO NewDailyReporter get usage rate for prev_df
+14:11:08,185 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:20:10,23 schepak INFO NewDailyReporter extracting from transactions
+14:20:12,582 schepak INFO NewDailyReporter extracting from cards
+14:20:12,694 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:20:12,957 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:20:12,973 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:20:13,35 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:20:13,53 schepak INFO NewDailyReporter get usage rate for current_df
+14:20:23,672 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:20:23,672 schepak INFO NewDailyReporter get usage rate for prev_df
+14:20:30,311 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:20:50,279 schepak INFO NewDailyReporter extracting from transactions
+14:20:52,830 schepak INFO NewDailyReporter extracting from cards
+14:20:52,919 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:20:53,174 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:20:53,190 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:20:53,253 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:20:53,274 schepak INFO NewDailyReporter get usage rate for current_df
+14:21:03,902 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:21:03,903 schepak INFO NewDailyReporter get usage rate for prev_df
+14:21:10,212 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:21:32,716 schepak INFO NewDailyReporter extracting from transactions
+14:21:35,270 schepak INFO NewDailyReporter extracting from cards
+14:21:35,359 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:21:35,618 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:21:35,636 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:21:35,701 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:24:30,476 schepak INFO NewDailyReporter extracting from transactions
+14:24:33,13 schepak INFO NewDailyReporter extracting from cards
+14:24:33,111 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:24:33,367 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:24:33,385 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:24:33,452 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:24:53,839 schepak INFO NewDailyReporter extracting from transactions
+14:24:56,372 schepak INFO NewDailyReporter extracting from cards
+14:24:56,474 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:24:56,726 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:24:56,744 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:24:56,805 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:30:47,450 schepak INFO NewDailyReporter extracting from transactions
+14:30:50,132 schepak INFO NewDailyReporter extracting from cards
+14:30:50,230 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:30:50,498 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:30:50,515 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:30:50,577 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:31:45,399 schepak INFO NewDailyReporter extracting from transactions
+14:31:48,30 schepak INFO NewDailyReporter extracting from cards
+14:31:48,122 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:31:48,387 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:31:48,404 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:31:48,468 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:34:07,167 schepak INFO NewDailyReporter extracting from transactions
+14:34:09,869 schepak INFO NewDailyReporter extracting from cards
+14:34:10,71 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:34:10,337 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:34:10,354 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:34:10,417 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:34:10,437 schepak INFO NewDailyReporter get usage rate for current_df
+14:34:10,513 schepak INFO NewDailyReporter get usage rate for prev_df
+14:36:03,948 schepak INFO NewDailyReporter extracting from transactions
+14:36:06,638 schepak INFO NewDailyReporter extracting from cards
+14:36:06,752 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:36:07,8 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:36:07,25 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:36:07,88 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:36:07,107 schepak INFO NewDailyReporter get usage rate for current_df
+14:36:18,219 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:36:18,219 schepak INFO NewDailyReporter get usage rate for prev_df
+14:36:25,122 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:36:25,122 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:36:25,187 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:43:25,569 schepak INFO NewDailyReporter extracting from transactions
+14:43:28,46 schepak INFO NewDailyReporter extracting from cards
+14:43:28,151 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:43:28,400 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:43:28,419 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:43:28,481 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:43:28,499 schepak INFO NewDailyReporter get usage rate for current_df
+14:43:38,473 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:43:38,474 schepak INFO NewDailyReporter get usage rate for prev_df
+14:43:44,485 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:43:44,485 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:43:44,542 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:43:44,593 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:43:46,915 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:52:14,633 schepak INFO NewDailyReporter extracting from transactions
+14:52:17,213 schepak INFO NewDailyReporter extracting from cards
+14:52:17,332 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:52:17,588 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:52:17,605 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:52:17,672 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:52:17,692 schepak INFO NewDailyReporter get usage rate for current_df
+14:52:28,148 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:52:28,148 schepak INFO NewDailyReporter get usage rate for prev_df
+14:52:33,897 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:52:33,898 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:52:33,947 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:52:33,997 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:52:34,23 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:53:03,17 schepak INFO NewDailyReporter extracting from transactions
+14:53:05,528 schepak INFO NewDailyReporter extracting from cards
+14:53:05,647 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:53:05,899 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:53:05,915 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:53:05,976 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:53:05,997 schepak INFO NewDailyReporter get usage rate for current_df
+14:53:16,604 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:53:16,604 schepak INFO NewDailyReporter get usage rate for prev_df
+14:53:22,582 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:53:22,582 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:53:22,643 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:53:22,705 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:53:22,735 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:53:22,769 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:53:58,246 schepak INFO NewDailyReporter extracting from transactions
+14:54:00,910 schepak INFO NewDailyReporter extracting from cards
+14:54:00,997 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:54:01,255 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:54:01,271 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:54:01,338 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:54:01,358 schepak INFO NewDailyReporter get usage rate for current_df
+14:54:11,648 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:54:11,648 schepak INFO NewDailyReporter get usage rate for prev_df
+14:54:17,735 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:54:17,735 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:54:17,793 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:54:17,854 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:54:17,884 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:54:17,911 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:55:32,70 schepak INFO NewDailyReporter extracting from transactions
+14:55:34,675 schepak INFO NewDailyReporter extracting from cards
+14:55:34,786 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:55:35,104 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:55:35,121 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:55:35,190 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:55:35,210 schepak INFO NewDailyReporter get usage rate for current_df
+14:55:45,733 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:55:45,733 schepak INFO NewDailyReporter get usage rate for prev_df
+14:55:51,760 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:55:51,760 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:55:51,811 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:55:51,873 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:55:51,902 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:55:51,929 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:55:54,484 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:56:38,954 schepak INFO NewDailyReporter extracting from transactions
+14:56:42,29 schepak INFO NewDailyReporter extracting from cards
+14:56:42,142 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:56:42,475 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:56:42,495 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:56:42,571 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:56:42,595 schepak INFO NewDailyReporter get usage rate for current_df
+14:56:53,33 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:56:53,33 schepak INFO NewDailyReporter get usage rate for prev_df
+14:56:59,13 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:56:59,14 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:56:59,68 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:56:59,126 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:56:59,152 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:56:59,179 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:58:09,67 schepak INFO NewDailyReporter extracting from transactions
+14:58:11,705 schepak INFO NewDailyReporter extracting from cards
+14:58:11,911 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:58:12,166 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:58:12,182 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:58:12,241 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:58:12,259 schepak INFO NewDailyReporter get usage rate for current_df
+14:58:22,981 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:58:22,981 schepak INFO NewDailyReporter get usage rate for prev_df
+14:58:29,419 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:58:29,419 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:58:29,474 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:58:29,529 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:58:29,555 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:58:29,580 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:59:18,418 schepak INFO NewDailyReporter extracting from transactions
+14:59:20,970 schepak INFO NewDailyReporter extracting from cards
+14:59:21,110 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+14:59:21,358 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+14:59:21,373 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+14:59:21,434 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+14:59:21,455 schepak INFO NewDailyReporter get usage rate for current_df
+14:59:31,891 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+14:59:31,891 schepak INFO NewDailyReporter get usage rate for prev_df
+14:59:37,908 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+14:59:37,908 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:59:37,960 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:59:38,18 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+14:59:38,48 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+14:59:38,76 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:01:31,621 schepak INFO NewDailyReporter extracting from transactions
+15:01:34,235 schepak INFO NewDailyReporter extracting from cards
+15:01:34,362 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:01:34,624 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:01:34,641 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:01:34,705 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:01:34,725 schepak INFO NewDailyReporter get usage rate for current_df
+15:01:45,204 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:01:45,204 schepak INFO NewDailyReporter get usage rate for prev_df
+15:01:51,529 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:01:51,529 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:01:51,581 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:01:51,642 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:01:51,672 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:01:51,700 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:01:54,278 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:11:59,399 schepak INFO NewDailyReporter extracting from transactions
+15:12:02,1 schepak INFO NewDailyReporter extracting from cards
+15:12:02,110 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:12:02,373 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:12:02,389 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:12:02,460 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:12:02,482 schepak INFO NewDailyReporter get usage rate for current_df
+15:12:13,167 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:12:13,167 schepak INFO NewDailyReporter get usage rate for prev_df
+15:12:19,156 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:12:19,157 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:12:19,210 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:12:19,258 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:12:19,285 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:12:19,311 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:12:19,344 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:00,116 schepak INFO NewDailyReporter extracting from transactions
+15:13:02,810 schepak INFO NewDailyReporter extracting from cards
+15:13:02,931 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:13:03,199 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:13:03,216 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:13:03,281 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:13:03,302 schepak INFO NewDailyReporter get usage rate for current_df
+15:13:14,303 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:13:14,303 schepak INFO NewDailyReporter get usage rate for prev_df
+15:13:20,316 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:13:20,316 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:20,371 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:20,418 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:20,448 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:20,474 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:20,508 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:35,780 schepak INFO NewDailyReporter extracting from transactions
+15:13:38,327 schepak INFO NewDailyReporter extracting from cards
+15:13:38,446 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:13:38,694 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:13:38,711 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:13:38,776 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:13:38,796 schepak INFO NewDailyReporter get usage rate for current_df
+15:13:49,541 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:13:49,542 schepak INFO NewDailyReporter get usage rate for prev_df
+15:13:56,196 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:13:56,196 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:56,259 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:56,324 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:56,357 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:13:56,385 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:13:56,422 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:15:00,512 schepak INFO NewDailyReporter extracting from transactions
+15:15:03,142 schepak INFO NewDailyReporter extracting from cards
+15:15:03,338 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:15:03,586 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:15:03,604 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:15:03,674 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:15:03,694 schepak INFO NewDailyReporter get usage rate for current_df
+15:15:14,235 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:15:14,235 schepak INFO NewDailyReporter get usage rate for prev_df
+15:15:20,773 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:15:20,774 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:15:20,829 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:15:20,880 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:15:20,906 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:15:20,930 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:15:20,961 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:16:44,164 root ERROR Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1200, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "C:\Users\schepak\AppData\Local\Programs\Python\Python310\lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\context.py", line 284, in signal_handler
+    self.cancelAllJobs()
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\context.py", line 1201, in cancelAllJobs
+    self._jsc.sc().cancelAllJobs()
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1304, in __call__
+    return_value = get_return_value(
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\pyspark\sql\utils.py", line 111, in deco
+    return f(*a, **kw)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o222.cancelAllJobs.
+: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.GatewayConnection.run(GatewayConnection.java:238)
+java.lang.Thread.run(Thread.java:748)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.api.java.JavaSparkContext.<init>(JavaSparkContext.scala:58)
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:247)
+py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+py4j.Gateway.invoke(Gateway.java:238)
+py4j.commands.ConstructorCommand.invokeConstructor(ConstructorCommand.java:80)
+py4j.commands.ConstructorCommand.execute(ConstructorCommand.java:69)
+py4j.GatewayConnection.run(GatewayConnection.java:238)
+java.lang.Thread.run(Thread.java:748)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:118)
+	at org.apache.spark.SparkContext.cancelAllJobs(SparkContext.scala:2381)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\schepak\installed_app\spark\spark-3.1.2-bin-hadoop3.2\python\lib\py4j-0.10.9-src.zip\py4j\java_gateway.py", line 1211, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while receiving
+15:16:51,65 schepak INFO NewDailyReporter extracting from transactions
+15:16:53,648 schepak INFO NewDailyReporter extracting from cards
+15:16:53,733 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:16:53,987 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:16:54,3 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:16:54,64 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:16:54,83 schepak INFO NewDailyReporter get usage rate for current_df
+15:17:04,528 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:17:04,529 schepak INFO NewDailyReporter get usage rate for prev_df
+15:17:10,704 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:17:10,704 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:17:10,758 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:17:10,809 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:17:10,838 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:17:10,865 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:17:10,900 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:18:04,339 schepak INFO NewDailyReporter extracting from transactions
+15:18:06,886 schepak INFO NewDailyReporter extracting from cards
+15:18:07,2 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+15:18:07,261 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+15:18:07,278 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+15:18:07,341 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+15:18:07,359 schepak INFO NewDailyReporter get usage rate for current_df
+15:18:17,649 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+15:18:17,649 schepak INFO NewDailyReporter get usage rate for prev_df
+15:18:23,759 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+15:18:23,759 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:18:23,819 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:18:23,876 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:18:23,912 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+15:18:23,940 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+15:18:23,975 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:25:08,304 schepak INFO NewDailyReporter extracting from transactions
+16:25:10,849 schepak INFO NewDailyReporter extracting from cards
+16:25:10,938 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:25:11,198 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:25:11,212 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:25:11,272 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:25:11,289 schepak INFO NewDailyReporter get usage rate for current_df
+16:25:20,166 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:25:20,166 schepak INFO NewDailyReporter get usage rate for prev_df
+16:25:25,174 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:25:25,174 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:25:47,286 schepak INFO NewDailyReporter extracting from transactions
+16:25:49,816 schepak INFO NewDailyReporter extracting from cards
+16:25:49,935 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:25:50,191 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:25:50,206 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:25:50,266 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:25:50,284 schepak INFO NewDailyReporter get usage rate for current_df
+16:25:59,774 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:25:59,775 schepak INFO NewDailyReporter get usage rate for prev_df
+16:26:05,59 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:26:05,59 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:44:53,911 schepak INFO NewDailyReporter extracting from transactions
+16:44:56,751 schepak INFO NewDailyReporter extracting from cards
+16:44:56,852 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:44:57,134 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:44:57,150 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:44:57,214 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:44:57,234 schepak INFO NewDailyReporter get usage rate for current_df
+16:45:07,4 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:45:07,4 schepak INFO NewDailyReporter get usage rate for prev_df
+16:45:12,348 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:45:12,349 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:45:12,412 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:45:12,469 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:45:12,497 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:45:12,521 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:45:12,553 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:50:27,755 schepak INFO NewDailyReporter extracting from transactions
+16:50:30,297 schepak INFO NewDailyReporter extracting from cards
+16:50:30,389 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:50:30,649 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:50:30,665 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:50:30,728 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:50:30,747 schepak INFO NewDailyReporter get usage rate for current_df
+16:50:40,966 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:50:40,966 schepak INFO NewDailyReporter get usage rate for prev_df
+16:50:46,719 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:50:46,719 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:50:46,790 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:50:46,848 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:50:46,872 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:50:46,899 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:50:46,926 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:51:33,784 schepak INFO NewDailyReporter extracting from transactions
+16:51:36,378 schepak INFO NewDailyReporter extracting from cards
+16:51:36,465 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:51:36,717 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:51:36,734 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:51:36,797 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:51:36,817 schepak INFO NewDailyReporter get usage rate for current_df
+16:51:47,11 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:51:47,12 schepak INFO NewDailyReporter get usage rate for prev_df
+16:51:53,78 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:51:53,79 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:52:08,496 schepak INFO NewDailyReporter extracting from transactions
+16:52:11,155 schepak INFO NewDailyReporter extracting from cards
+16:52:11,275 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:52:11,523 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:52:11,541 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:52:11,602 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:52:11,621 schepak INFO NewDailyReporter get usage rate for current_df
+16:52:22,12 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:52:22,13 schepak INFO NewDailyReporter get usage rate for prev_df
+16:52:28,203 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:52:28,204 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:52:28,279 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:52:28,336 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:52:28,366 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:52:28,395 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:52:28,426 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:53:47,839 schepak INFO NewDailyReporter extracting from transactions
+16:53:50,415 schepak INFO NewDailyReporter extracting from cards
+16:53:50,524 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:53:50,784 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:53:50,800 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:53:50,862 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:53:50,884 schepak INFO NewDailyReporter get usage rate for current_df
+16:54:01,729 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:54:01,729 schepak INFO NewDailyReporter get usage rate for prev_df
+16:54:08,205 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:54:08,205 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:54:29,106 schepak INFO NewDailyReporter extracting from transactions
+16:54:31,643 schepak INFO NewDailyReporter extracting from cards
+16:54:31,757 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+16:54:32,13 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+16:54:32,30 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+16:54:32,91 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+16:54:32,111 schepak INFO NewDailyReporter get usage rate for current_df
+16:54:42,401 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+16:54:42,401 schepak INFO NewDailyReporter get usage rate for prev_df
+16:54:48,412 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+16:54:48,412 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:54:48,475 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:54:48,529 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:54:48,559 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+16:54:48,588 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+16:54:48,619 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:29:09,444 schepak INFO NewDailyReporter extracting from transactions
+17:29:11,848 schepak INFO NewDailyReporter extracting from cards
+17:29:11,931 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:29:12,177 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:29:12,192 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:29:12,250 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:29:12,268 schepak INFO NewDailyReporter get usage rate for current_df
+17:29:20,979 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+17:29:20,980 schepak INFO NewDailyReporter get usage rate for prev_df
+17:29:25,602 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+17:29:25,602 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:29:25,650 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:29:25,692 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:29:25,716 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:29:25,738 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:29:25,762 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:29:25,787 schepak INFO NewDailyReporter creating detailed info df
+17:29:25,820 schepak INFO NewDailyReporter creating detailed info df
+17:30:32,34 schepak INFO NewDailyReporter extracting from transactions
+17:30:34,530 schepak INFO NewDailyReporter extracting from cards
+17:30:34,639 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:30:34,882 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:30:34,897 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:30:34,953 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:30:34,971 schepak INFO NewDailyReporter get usage rate for current_df
+17:30:44,319 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+17:30:44,319 schepak INFO NewDailyReporter get usage rate for prev_df
+17:30:49,922 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+17:30:49,922 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:30:49,969 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:30:50,9 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:30:50,35 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:30:50,61 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:30:50,87 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:30:50,110 schepak INFO NewDailyReporter creating detailed info df
+17:30:50,145 schepak INFO NewDailyReporter creating detailed info df
+17:31:08,884 schepak INFO NewDailyReporter extracting from transactions
+17:31:11,400 schepak INFO NewDailyReporter extracting from cards
+17:31:11,490 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:31:11,739 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:31:11,755 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:31:11,816 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:31:11,836 schepak INFO NewDailyReporter get usage rate for current_df
+17:31:22,162 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+17:31:22,162 schepak INFO NewDailyReporter get usage rate for prev_df
+17:31:27,920 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+17:31:27,920 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:31:27,982 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:31:28,34 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:31:28,65 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:31:28,90 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:31:28,118 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:31:28,148 schepak INFO NewDailyReporter creating detailed info df
+17:31:28,190 schepak INFO NewDailyReporter creating detailed info df
+17:46:38,399 schepak INFO NewDailyReporter extracting from transactions
+17:46:40,961 schepak INFO NewDailyReporter extracting from cards
+17:46:41,72 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:46:41,328 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:46:41,346 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:46:41,423 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:46:41,443 schepak INFO NewDailyReporter get usage rate for current_df
+17:46:50,680 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+17:46:50,680 schepak INFO NewDailyReporter get usage rate for prev_df
+17:46:55,778 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+17:46:55,778 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:46:55,826 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:46:55,866 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:46:55,892 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:46:55,913 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:46:55,939 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:46:55,963 schepak INFO NewDailyReporter creating detailed info df
+17:46:55,998 schepak INFO NewDailyReporter creating detailed info df
+17:46:56,24 schepak INFO NewDailyReporter Joining current and previous dfs
+17:48:57,995 schepak INFO NewDailyReporter extracting from transactions
+17:49:00,701 schepak INFO NewDailyReporter extracting from cards
+17:49:00,786 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+17:49:01,49 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+17:49:01,65 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+17:49:01,127 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+17:49:01,148 schepak INFO NewDailyReporter get usage rate for current_df
+17:49:11,38 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+17:49:11,38 schepak INFO NewDailyReporter get usage rate for prev_df
+17:49:16,872 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+17:49:16,873 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:49:16,931 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:49:16,974 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:49:17,3 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:49:17,30 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+17:49:17,60 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+17:49:17,84 schepak INFO NewDailyReporter creating detailed info df
+17:49:17,134 schepak INFO NewDailyReporter creating detailed info df
+17:49:17,169 schepak INFO NewDailyReporter Joining current and previous dfs
+18:00:35,558 schepak INFO NewDailyReporter extracting from transactions
+18:00:38,282 schepak INFO NewDailyReporter extracting from cards
+18:00:38,374 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+18:00:38,661 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+18:00:38,678 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+18:00:38,745 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+18:00:38,764 schepak INFO NewDailyReporter get usage rate for current_df
+18:00:50,767 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+18:00:50,767 schepak INFO NewDailyReporter get usage rate for prev_df
+18:00:57,575 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+18:00:57,575 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:00:57,646 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:00:57,682 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:00:57,715 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:00:57,744 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:00:57,775 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:00:57,803 schepak INFO NewDailyReporter creating detailed info df
+18:00:57,846 schepak INFO NewDailyReporter creating detailed info df
+18:00:57,894 schepak INFO NewDailyReporter Joining current and previous dfs
+18:03:47,723 schepak INFO NewDailyReporter extracting from transactions
+18:03:51,507 schepak INFO NewDailyReporter extracting from cards
+18:03:51,639 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+18:03:52,51 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+18:03:52,75 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+18:03:52,160 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+18:03:52,187 schepak INFO NewDailyReporter get usage rate for current_df
+18:04:06,9 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+18:04:06,9 schepak INFO NewDailyReporter get usage rate for prev_df
+18:04:14,178 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+18:04:14,179 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:04:14,271 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:04:14,319 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:04:14,354 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:04:14,386 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:04:14,423 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:04:14,455 schepak INFO NewDailyReporter creating detailed info df
+18:04:14,507 schepak INFO NewDailyReporter creating detailed info df
+18:04:14,595 schepak INFO NewDailyReporter Joining current and previous dfs
+18:04:50,110 schepak INFO NewDailyReporter extracting from transactions
+18:04:53,694 schepak INFO NewDailyReporter extracting from cards
+18:04:53,819 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+18:04:54,169 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+18:04:54,188 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+18:04:54,264 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+18:04:54,288 schepak INFO NewDailyReporter get usage rate for current_df
+18:05:06,830 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+18:05:06,830 schepak INFO NewDailyReporter get usage rate for prev_df
+18:05:14,207 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+18:05:14,207 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:05:14,286 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:05:14,327 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:05:14,363 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:05:14,393 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:05:14,430 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:05:14,462 schepak INFO NewDailyReporter creating detailed info df
+18:05:14,512 schepak INFO NewDailyReporter creating detailed info df
+18:05:14,567 schepak INFO NewDailyReporter Joining current and previous dfs
+18:06:10,734 schepak INFO NewDailyReporter extracting from transactions
+18:06:13,693 schepak INFO NewDailyReporter extracting from cards
+18:06:13,829 schepak INFO NewDailyReporter selecting recent hour 11 and day 10
+18:06:14,128 schepak INFO NewDailyReporter selecting prev_hour 10 and day 10
+18:06:14,146 schepak INFO NewDailyReporter start join datasets 'CURRENT' 
+18:06:14,215 schepak INFO NewDailyReporter start join datasets 'PREVIOUS' 
+18:06:14,238 schepak INFO NewDailyReporter get usage rate for current_df
+18:06:27,451 schepak INFO NewDailyReporter usage rake for current_df == 0.019367991845056064
+18:06:27,451 schepak INFO NewDailyReporter get usage rate for prev_df
+18:06:35,268 schepak INFO NewDailyReporter usage rake for prev_df == 0.008928571428571428
+18:06:35,269 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:06:35,347 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:06:35,384 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:06:35,419 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:06:35,446 schepak INFO NewDailyReporter get sum_of_transactions for current_df
+18:06:35,477 schepak INFO NewDailyReporter get sum_of_transactions for prev_df
+18:06:35,508 schepak INFO NewDailyReporter creating detailed info df
+18:06:35,556 schepak INFO NewDailyReporter creating detailed info df
+18:06:35,600 schepak INFO NewDailyReporter Joining current and previous dfs
